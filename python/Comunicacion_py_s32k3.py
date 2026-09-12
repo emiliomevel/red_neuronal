@@ -6,7 +6,7 @@ import time
 # ==========================================
 # 1. DEFINICIÓN DE PARÁMETROS Y ARQUITECTURA
 # ==========================================
-
+ 
 INPUTS = 4
 LAYER1 = 2
 LAYER2 = 3
